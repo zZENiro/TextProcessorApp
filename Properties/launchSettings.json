@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "App": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "--port": "5011",
+        "--host": "localhost"
+      }
+    }
+  }
+}
